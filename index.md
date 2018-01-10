@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Sobre nós
 
-You can use the [editor on GitHub](https://github.com/TattyLuiza/curso-html/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Então o conteúdo fala sobre nós, que maravilhoso. Pelo menos alguém fala.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+5 anos antes .... 
 
-### Markdown
+Quando eu te conheci ... 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sabe quando você acorda com uma euforia fora do normal? Como se aquele dia fosse o dia em que algo aconteceria, ou simplesmente ele seria mais especial que os outros. Mas dai vem aquele medo, já que vários são os relatos que antes de algo muito ruim acontecer, você morrer por exemplo, seu dia melhora, você faz uma despedida de tudo, vê tudo de outra forma, mesmo sem saber  
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Pagina 3
+## Pagina 2
+### Pagina 1
 
 - Bulleted
 - List
